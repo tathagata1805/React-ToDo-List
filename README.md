@@ -56,10 +56,6 @@ v1.1
 * Task transitions animations
 * Remove tasks capabilities
 
-## Authors
-Vin Busquet
-* [https://github.com/computationalcore](https://github.com/computationalcore)
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
